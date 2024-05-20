@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikhilKongari
-- 👀 I’m interested in ... python developer
+- 👀 I’m interested in ... python 
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
